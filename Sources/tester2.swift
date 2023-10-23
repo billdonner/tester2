@@ -9,6 +9,6 @@ import ArgumentParser
 @main
 struct tester2: ParsableCommand {
     mutating func run() throws {
-        print("Hello, world!")
+        print("Hello, world!!!!!")
     }
 }
